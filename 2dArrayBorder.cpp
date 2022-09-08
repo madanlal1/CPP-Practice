@@ -41,7 +41,7 @@ int main() {
 				for(int s=0; s<rows-2; s++)
 					cout<<"  ";
 					
-				cout<<array[i][columns-1];
+				cout<<array[i][columns-1]<<endl;
 				
 			}
 		}
